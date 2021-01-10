@@ -1,5 +1,8 @@
 # Malware Detection Tool
 
+## Contributors
+- ![Anubhav Kalyani](https://github.com/anubhavkalyani)
+
 This is a python program which uses machine learning model trained using Sklearn and Pandas to detect malware and saneware/benign files with high accuracy, precision, recall and F1_Score.
 
 ## Installation
